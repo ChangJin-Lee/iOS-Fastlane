@@ -121,12 +121,14 @@
     - 테스트 도중에 시뮬레이터가 여러 개 켜질 수 있으나 잘못된 거 아니고 인내심을 가지고 기다리면 테스트 완료 돼요.
 
 
-    <img width="949" alt="스크린샷 2023-06-29 오전 12 30 55" src="https://github.com/ChangJin-Lee/iOS-Fastlane-test/assets/54494793/fa3a0d46-7a85-4a30-8da4-16bbfa21e891">
+    ![스크린샷 2023-06-29 오전 12 18 00](https://github.com/ChangJin-Lee/iOS-Fastlane-test/assets/54494793/6b1cb452-f90f-418d-931d-82a3d74a2446)
+
     
     - 결과
 
 
-    <img width="1475" alt="스크린샷 2023-06-29 오전 12 34 31" src="https://github.com/ChangJin-Lee/iOS-Fastlane-test/assets/54494793/0c476639-1d6e-40a0-8885-446562b6c3fb">
+    ![스크린샷 2023-06-29 오전 12 11 46](https://github.com/ChangJin-Lee/iOS-Fastlane-test/assets/54494793/744f8490-6c8b-4c3c-a940-502d431e229f)
+
 
         
         
@@ -138,6 +140,10 @@
 - 해당 링크는 여기로 가면 볼 수 있어요.
 
 [Test cicd for iOS App project · ChangJin-Lee/iOS-Fastlane-test@b18ae8c](https://github.com/ChangJin-Lee/iOS-Fastlane-test/actions/runs/5402982453/jobs/9815101464?pr=1)
+
+<img width="949" alt="스크린샷 2023-06-29 오전 12 30 55" src="https://github.com/ChangJin-Lee/iOS-Fastlane-test/assets/54494793/fa3a0d46-7a85-4a30-8da4-16bbfa21e891">
+
+<img width="1475" alt="스크린샷 2023-06-29 오전 12 34 31" src="https://github.com/ChangJin-Lee/iOS-Fastlane-test/assets/54494793/0c476639-1d6e-40a0-8885-446562b6c3fb">
 
 <img width="1872" alt="스크린샷 2023-06-29 오전 1 30 57" src="https://github.com/ChangJin-Lee/iOS-Fastlane-test/assets/54494793/2a7e7cd4-9fcd-414b-a493-734d7f64b7cc">
 
