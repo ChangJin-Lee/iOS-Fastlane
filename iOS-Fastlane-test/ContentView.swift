@@ -15,7 +15,7 @@ struct ContentView: View {
                 .foregroundColor(.accentColor)
 
             Spacer()
-                .frame(height: 30)
+                .frame(height: 29)
 
             Text("Hello, world!")
                 .frame(width: 10)
